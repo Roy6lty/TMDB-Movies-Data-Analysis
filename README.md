@@ -1,3 +1,3 @@
 # Udacity-
 Data Science Project
-# This a project on movie analysis from imdb 
+This a project on movie analysis from imdb 
